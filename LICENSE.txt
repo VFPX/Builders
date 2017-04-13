@@ -5,12 +5,12 @@ you accept this license. If you do not accept the license, do not use the
 software.
 
 1. Definitions
-The terms “reproduce,” “reproduction” and “distribution” have the same meaning 
+The terms "reproduce," "reproduction" and "distribution" have the same meaning 
 here as under U.S. copyright law.
 
-“You” means the licensee of the software.
+"You" means the licensee of the software.
 
-“Licensed patents” means any Microsoft patent claims which read directly on the 
+"Licensed patents" means any Microsoft patent claims which read directly on the 
 software as distributed by Microsoft under this license. 
 
 2. Grant of Rights
@@ -30,7 +30,7 @@ software or derivative works of the software.
 3. Conditions and Limitations
 
 (A) No Trademark License- This license does not grant you any rights to use 
-Microsoft’s name, logo, or trademarks.
+Microsoft's name, logo, or trademarks.
 
 (B) If you begin patent litigation against Microsoft over patents that you think 
 may apply to the software (including a cross-claim or counterclaim in a 
@@ -46,7 +46,7 @@ this license with your distribution), and if you distribute the software or
 derivative works in compiled or object code form you may only do so under a 
 license that complies with this license.
 
-(E) The software is licensed “as-is.” You bear the risk of using it. Microsoft 
+(E) The software is licensed "as-is." You bear the risk of using it. Microsoft 
 gives no express warranties, guarantees or conditions. You may have additional 
 consumer rights under your local laws which this license cannot change. To the 
 extent permitted under your local laws, Microsoft excludes the implied 
