@@ -10,10 +10,6 @@ Builders are tools that aid in setting properties of controls on a form. Unlike 
 
 * Command Group Builder: Makes it easy for you to set properties for a Command Group control. 
 
-* CursorAdapter Builder: Makes it easy for you to build CursorAdapter objects more quickly (note: the source for the CursorAdapter Builder is part of the DataEnvironment Builder project).
-
-* DataEnvironment Builder: Makes it easy for you to build DataEnvironment objects that use the capabilities of CursorAdapter objects. Note that the DataEnvironment Builder project is located in the Wizards\DEBuilder folder.
-
 * Edit Box Builder: Makes it easy for you to set properties for an Edit Box control.
 
 * Form Builder: Makes it easy for you to add fields as new controls to a form. 
@@ -28,6 +24,8 @@ Builders are tools that aid in setting properties of controls on a form. Unlike 
 
 * Text Box Builder: Makes it easy for you to set properties for a Text Box control. 
 
-* XML Web Service Builder: Makes it possible for you to bind an XML Web service to a control on a Visual FoxPro form or to an object, such as a cursor adapter in the form's data environment, without writing code.
+* XML Web Service Builder: Makes it possible for you to bind an XML Web service to a control on a Visual FoxPro form or to an object, such as a CursorAdapter in the form's data environment, without writing code.
+
+**Note**: although they're builders, the CursorAdapter and DataEnvironment Builders are actually found in the [Wizards](https://github.com/VFPX/Wizards) project.
 
 Builders is part of [XSource](https://github.com/VFPX/XSource), the source files for various Visual FoxPro components. The license governing XSource can be found in the XSource_EULA.txt included with all of the XSource releases.
